@@ -2,3 +2,4 @@
 <p>
 	A bishop moves diagonally as far as it wants, as long as there is no piece standing in its way.
 </p>
+<button><a href="/">HOME</a></button>
