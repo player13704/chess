@@ -1,6 +1,6 @@
 <h1>Rook</h1>
 <p>
-	Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque commodi numquam distinctio
-	voluptatum. Reprehenderit, architecto.
+	A rook moves horizontally or vertically as many squares as it likes, as long as there is no piece
+	standing in its way.
 </p>
 <button><a href="/">HOME</a></button>
