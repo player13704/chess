@@ -1,2 +1,4 @@
-<h1>Chess</h1>
+<script>
+</script>
+
 <button><a href="/tutorials">TUTORIALS</a></button>
