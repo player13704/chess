@@ -12,7 +12,7 @@
 </main>
 
 <footer>
-	<p>my chess website</p>
+	<p>© Copyright Felix</p>
 </footer>
 
 <style>
