@@ -6,4 +6,4 @@
 <button><a href="/tutorials/pawn">Pawn</a></button>
 <button><a href="/tutorials/knight">Knight</a></button>
 <button><a href="/tutorials/bishop">Bishop</a></button>
-<button><a href="/tutorials/Rook">Rook</a></button>
+<button><a href="/tutorials/rook">Rook</a></button>
